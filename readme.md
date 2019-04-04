@@ -12,10 +12,12 @@ Este estudo é um projeto obrigatório do curso <b>Programa Nanodegree Fundament
 
 Seguem algumas perguntas que podem ser relevantes a serem investigadas:
 
-- Classe das pessoas teve alguma coisa haver com isso ?
-- A cabine em que estavam, teve algum favorecimento ?
-- Teve mais sobreviventes mulheres ?
-- A idade das teve alguma relevancia, para a sobrevivencias das pessoas ?
+1. A Classe da passagem adquirida, teve alguma importância para que tivesse mais sobreviventes de determinada classe ?
+2. A cabine em que os passageiros estavam, teve alguma relevância para que houvesse mais sobreviventes ?
+3. Teve mais sobreviventes mulheres mulheres ou homens ?
+4. A idade das pessoas teve alguma relevância, em relação aos sobreviventes ?
+
+
 
 Para este estudo, utilizarei o dataset disponibilizado pela Idacity: 
 [titanic-data-6.csv](https://d17h27t6h515a5.cloudfront.net/topher/2017/October/59e4fe3d_titanic-data-6/titanic-data-6.csv)
