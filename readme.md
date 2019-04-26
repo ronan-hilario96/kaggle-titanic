@@ -12,10 +12,11 @@ Este estudo é um projeto obrigatório do curso <b>Programa Nanodegree Fundament
 
 Seguem algumas perguntas que podem ser relevantes a serem investigadas:
 
-1. A Classe da passagem adquirida, teve alguma importância para que tivesse mais sobreviventes de determinada classe ?
-2. A cabine em que os passageiros estavam, teve alguma relevância para que houvesse mais sobreviventes ?
-3. Teve mais sobreviventes mulheres mulheres ou homens ?
-4. A idade das pessoas teve alguma relevância, em relação aos sobreviventes ?
+1. Qual a idade média dos sobreviventes da primeira classe que embarcaram em Cherbourg?
+2. Dos sobreviventes qual era a porcentagem de mulheres que sobreviveram ao desastre, e dessas de qual a porcentagem por classe social?
+3. Dos passageiros embarcados por região, qual teve mais sobreviventes ?
+4. Qual é a media de idade de sobreviventes em cada classe social, e daqueles que faleceram no naufragio?
+5. Qual é a classe das pessoas que sobreviveram ?
 
 
 
@@ -31,7 +32,3 @@ Mais informações sobre o conjunto de dados [kaggle](https://www.kaggle.com/c/t
 - Pandas
 - Matplotlib
 - Seaborn
-
-Referencias:
-
-[Titanic - Investigando a base de dados](https://github.com/marcioozorio/titanic-investigando-a-base-de-dados): Base para construção do modelo e intendimento da atividade proposta pela udacity
