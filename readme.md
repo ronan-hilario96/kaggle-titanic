@@ -12,7 +12,7 @@ Este estudo é um projeto obrigatório do curso <b>Programa Nanodegree Fundament
 
 Seguem algumas perguntas que podem ser relevantes a serem investigadas:
 
-1. Qual a idade média dos sobreviventes da primeira classe que embarcaram em Cherbourg?
+1. Qual a faixa etaria de idade dos sobreviventes da primeira classe que embarcaram em Cherbourg?
 2. Dos sobreviventes qual era a porcentagem de mulheres que sobreviveram ao desastre, e dessas de qual a porcentagem por classe social?
 3. Dos passageiros embarcados por região, qual teve mais sobreviventes ?
 4. Qual é a media de idade de sobreviventes em cada classe social, e daqueles que faleceram no naufragio?
